@@ -1,0 +1,5 @@
+{
+  "name": "Ring All-Reduce Visualizer",
+  "description": "An interactive animated demonstration of the Ring All-Reduce algorithm used in distributed deep learning training, visualizing bandwidth usage and data flow.",
+  "requestFramePermissions": []
+}
